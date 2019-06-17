@@ -1,0 +1,9 @@
+trinity_path = /path/to/Trinity/
+mafft_path = /path/to/mafft
+bowtie2_path = /path/to/bowtie2/
+cpu = 32
+samples_file = samples_file.txt
+max_memory = 200G
+gap_penalty = 10.0
+expression_threshold = 1
+coverage_threshold = 0.8

@@ -1,0 +1,2 @@
+cond1	cond1	reads.left.fq.gz	reads.right.fq.gz
+cond2	cond2	reads2.left.fq.gz	reads2.right.fq.gz
